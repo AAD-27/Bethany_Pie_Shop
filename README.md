@@ -1,2 +1,3 @@
 # bethany_pie_shop
-Bethany Pie Shop website built using basics of HTML CSS &amp; Js
+Bethany Pie Shop website built using basics of HTML CSS &  Js
+This project was part of 'Building Websites with HTML, CSS and JavaScript: Craig Shoemaker' on PluralSight
